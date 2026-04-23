@@ -5,12 +5,12 @@ I am a Cybersecurity graduate from ECPI University with a strong foundation in n
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/tsioncybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/tsioncybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tsionwolde-jPg/threat-hunting-scenario-tor)**
 
 <hr/>
 
@@ -24,7 +24,7 @@ I am a Cybersecurity graduate from ECPI University with a strong foundation in n
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+[linkedin]: https://linkedin.com/in/tsion-wolde___________
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
